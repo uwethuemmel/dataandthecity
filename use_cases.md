@@ -6,14 +6,18 @@ We classify the use cases according to Gartner's® Analytics Ladder into descrip
 - **Country**: US
 - **City**: Boston
 - **Description**: CityScore is an initiative designed to inform the Mayor and city managers about the overall health of the City at a moment’s notice by aggregating key performance metrics into one number.
+- **Value**: Quickly assess overall city health.
 - **Link**: https://www.boston.gov/innovation-and-technology/cityscore
 - **Tags**: #descriptive, #index
 
 
 ### Land Audit
-**City**: City of Boston
-**Description**: The Citywide Land Audit identified City-owned land that was vacant or underutilized and presented a high opportunity for redevelopment.
-**Link**: https://storymaps.arcgis.com/stories/67cf09fdf6294453bb3444aa4292dc72
+- **Country**: US
+- **City**: Boston
+- **Description**: The Citywide Land Audit identified City-owned land that was vacant or underutilized and presented a high opportunity for redevelopment.
+- **Value**: Identify opportunities for development.
+- **Link**: https://storymaps.arcgis.com/stories/67cf09fdf6294453bb3444aa4292dc72
+- **Tags**: #descriptive, #spatial
 
 
 
