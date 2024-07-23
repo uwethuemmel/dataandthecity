@@ -3,10 +3,11 @@ We classify the use cases according to Gartner's® Analytics Ladder into descrip
 
 ## Descriptive
 ### City Score
-**City**: City of Boston
-**Description**: CityScore is an initiative designed to inform the Mayor and city managers about the overall health of the City at a moment’s notice by aggregating key performance metrics into one number.
-**Link**: https://www.boston.gov/innovation-and-technology/cityscore
-**Tags**: index
+- **Country**: US
+- **City**: Boston
+- **Description**: CityScore is an initiative designed to inform the Mayor and city managers about the overall health of the City at a moment’s notice by aggregating key performance metrics into one number.
+- **Link**: https://www.boston.gov/innovation-and-technology/cityscore
+- **Tags**: #descriptive, #index
 
 
 ### Land Audit
