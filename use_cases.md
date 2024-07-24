@@ -5,138 +5,131 @@ We classify the use cases according to Gartner's® Analytics Ladder into descrip
 ### City Score
 - **Country**: US
 - **City**: Boston
-- **Year**: 2023
+- **Year**: N/A
 - **Description**: CityScore is an initiative designed to inform the Mayor and city managers about the overall health of the City at a moment’s notice by aggregating key performance metrics into one number.
 - **Value**: Quickly assess overall city health.
 - **Link**: https://www.boston.gov/innovation-and-technology/cityscore
 - **Tags**: #descriptive, #index
 
-### Land Audit
+### City Owned Land Audit
 - **Country**: US
 - **City**: Boston
 - **Year**: 2023
-- **Description**: The Citywide Land Audit identified City-owned land that was vacant or underutilized and presented a high opportunity for redevelopment.
-- **Value**: Identify opportunities for development.
+- **Description**: Creation of a database and map of city-owned properties to identify opportunities for advancing housing justice through underutilized parcels.
+- **Value**: Improved land use for housing justice initiatives.
 - **Link**: https://storymaps.arcgis.com/stories/67cf09fdf6294453bb3444aa4292dc72
-- **Tags**: #descriptive, #spatial
+- **Categories**: descriptive
+- **Tags**: #land-audit #housing #database
 
 ### Affordable Housing Pipeline
 - **Country**: US
 - **City**: Boston
 - **Year**: 2023
-- **Description**: Partnered with the Mayor's Office of Housing, Inspectional Services Department, and the Boston Planning and Development Agency to combine data from their respective systems to track proposed affordable housing projects through the approval process. Created an automated tool to visualize how long individual steps in the review process are taking.
+- **Description**: Development of a tool to track and visualize the approval process for affordable housing projects across multiple city departments.
 - **Value**: Accelerated affordable housing development process.
 - **Link**: N/A
+- **Categories**: descriptive, predictive, process
 - **Tags**: #affordable-housing #process-tracking #visualization
+
+### Faster Delivery of Vital Records
+- **Country**: US
+- **City**: Boston
+- **Year**: 2023
+- **Description**: Streamlining of processes for issuing birth certificates and marriage licenses, reducing the need for multiple visits to city hall.
+- **Value**: Reduced processing times by up to 55%, improved constituent experience.
+- **Link**: N/A
+- **Categories**: process
+- **Tags**: #process-improvement #vital-records #constituent-services
 
 ### Hiring Improvement Initiative
 - **Country**: US
 - **City**: Boston
 - **Year**: 2023
-- **Description**: Provided data analyses and insights to support the People Operations Cabinet in their cross-departmental effort to reduce the time to hire. Identified potential bottlenecks and opportunities for improvement, and measured the impact of changes to the process.
+- **Description**: Analysis of the city's hiring process to identify bottlenecks and implement improvements to reduce time-to-hire.
 - **Value**: Streamlined hiring process across city departments.
 - **Link**: N/A
+- **Categories**: diagnostic, process
 - **Tags**: #hiring #process-improvement #data-analysis
 
 ### Basic City Services Stat
 - **Country**: US
 - **City**: Boston
 - **Year**: 2023
-- **Description**: Partnered with the Mayor's Office and all departments within "Basic City Services" to kick off monthly "Stat" style performance management meetings. These meetings use data to make decisions, solve problems, and improve efficiency in city services.
+- **Description**: Implementation of monthly data-driven performance management meetings for basic city services departments.
 - **Value**: Data-driven decision making for basic city services.
 - **Link**: N/A
+- **Categories**: descriptive, diagnostic, prescriptive
 - **Tags**: #performance-management #data-driven-decisions #city-services
-
-### Employee Demographics Dashboard
-- **Country**: US
-- **City**: Boston
-- **Year**: 2023
-- **Description**: Worked with the People Operations Cabinet to develop a tool for departments to easily understand the current demographic makeup of their employees and recent trends in the diversity of their new hires, and to communicate these insights to City Council in the annual budget process.
-- **Value**: Enhanced understanding and reporting of workforce diversity.
-- **Link**: N/A
-- **Tags**: #workforce-diversity #dashboard #hr-analytics
-
-
-## Diagnostic
-
 
 ### Sidewalk Repair Investigation
 - **Country**: US
 - **City**: Boston
 - **Year**: 2023
-- **Description**: Partnered with Public Works to examine how the City's sidewalk conditions index compares to the volume of sidewalk related 311 requests. This analysis aimed to identify priority areas and analyze the capital project backlog.
+- **Description**: Analysis of sidewalk conditions and 311 requests to identify priority areas for repair and assess the capital project backlog.
 - **Value**: Improved prioritization of sidewalk repairs.
 - **Link**: N/A
+- **Categories**: descriptive, diagnostic
 - **Tags**: #infrastructure #data-analysis #311-requests
-
-## Prescriptive
 
 ### Vandalism Removal Prioritization
 - **Country**: US
 - **City**: Boston
 - **Year**: 2023
-- **Description**: Collaborated with the Property Management Department to analyze trends in 311 requests for vandalism removal across time and identify hotspots. Built a tool to help staff efficiently triage incoming cases and prioritize the backlog of removal requests using a set of weighted criteria.
+- **Description**: Development of a tool to analyze trends in vandalism-related 311 requests and prioritize removal efforts.
 - **Value**: More efficient vandalism removal process.
 - **Link**: N/A
+- **Categories**: descriptive, prescriptive
 - **Tags**: #vandalism #311-requests #prioritization-tool
-
-## Predictive
 
 ### Automated Pothole Detection
 - **Country**: US
 - **City**: Boston
 - **Year**: 2023
-- **Description**: Partnered with Mercedes Benz to use anonymized data from connected vehicles to investigate whether automated detection of potholes could supplement 311 reporting and provide a more comprehensive understanding of road conditions and changes in pothole severity over time.
+- **Description**: Exploration of using connected vehicle data for automated pothole detection to supplement 311 reporting and monitor road conditions.
 - **Value**: Improved road condition monitoring and maintenance.
 - **Link**: N/A
+- **Categories**: descriptive, predictive
 - **Tags**: #smart-city #infrastructure #pothole-detection
 
 ### Streamlining Outdoor Event Permitting
 - **Country**: US
 - **City**: Boston
 - **Year**: 2023
-- **Description**: Partnered with the Mayor's Office to streamline the citywide special events process. Collaborated with multiple departments to identify process inefficiencies and draft a future state process planned for implementation in 2024.
+- **Description**: Cross-departmental effort to identify inefficiencies and improve the citywide special events permitting process.
 - **Value**: More efficient outdoor event permitting process.
 - **Link**: N/A
+- **Categories**: process
 - **Tags**: #process-improvement #event-permitting #cross-department-collaboration
-
-
-### Communications Experiments
-- **Country**: US
-- **City**: Boston
-- **Year**: 2023
-- **Description**: Participated in the Behavioral Insight Team's "Simple Randomized Control Trial Sprint" to learn fundamental concepts of designing and rapidly testing behavioral nudges. Conducted a trial of two different reminders to employees to submit forms for fitness reimbursements from health insurers.
-- **Value**: Improved understanding and application of behavioral insights.
-- **Link**: N/A
-- **Tags**: #behavioral-insights #randomized-control-trial #employee-communications
 
 ### Visualizing Rodent Prevention
 - **Country**: US
 - **City**: Boston
 - **Year**: 2023
-- **Description**: Collaborated with ISD to create a tool that visualizes incoming 311 requests about rodent activity as well as observations from staff in the field to highlight recent geospatial trends and aid the team in strategically planning where to focus their time and attention.
+- **Description**: Creation of a visualization tool for rodent-related 311 requests and field observations to guide prevention efforts.
 - **Value**: Improved rodent prevention strategies.
 - **Link**: N/A
+- **Categories**: descriptive, prescriptive
 - **Tags**: #data-visualization #pest-control #311-requests
-
-### Building an Evaluation Culture
-- **Country**: US
-- **City**: Boston
-- **Year**: 2023
-- **Description**: Participated in a training sprint provided by J-PAL and Results for America, along with 13 other governments, to learn key elements of how to embed evaluations and evidence into decision making across government.
-- **Value**: Enhanced capacity for evidence-based decision making.
-- **Link**: N/A
-- **Tags**: #evaluation #evidence-based-policy #capacity-building
 
 ### Measuring Supplier Diversity
 - **Country**: US
 - **City**: Boston
 - **Year**: 2023
-- **Description**: Partnered with the Procurement and Supplier Diversity departments to automate reporting of key information regarding the City's spending on contracts with minority- and women-owned small businesses. Created a dashboard to make spending and contract award information transparent and easily visualized.
+- **Description**: Automation of reporting on city contracts with minority- and women-owned small businesses, including creation of a visualization dashboard.
 - **Value**: Improved transparency and monitoring of supplier diversity.
 - **Link**: N/A
+- **Categories**: descriptive
 - **Tags**: #supplier-diversity #dashboard #procurement
 
+### Employee Demographics Dashboard
+- **Country**: US
+- **City**: Boston
+- **Year**: 2023
+- **Description**: Development of a tool to analyze and report on employee demographics and hiring trends for city departments and the City Council.
+- **Value**: Enhanced understanding and reporting of workforce diversity.
+- **Link**: N/A
+- **Categories**: descriptive, diagnostic
+- **Tags**: #workforce-diversity #dashboard #hr-analytics
 
 
 # Use Case Collections
