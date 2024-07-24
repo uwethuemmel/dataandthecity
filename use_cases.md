@@ -1,5 +1,5 @@
 # Use Cases
-We classify the use cases according to Gartner's® Analytics Ladder into descriptive, diagnostic, predictive, and prescriptive.
+We classify the use cases according to Gartner's® Analytics Ladder into descriptive, diagnostic, predictive, and prescriptive. We add a `process` category to capture those use cases that aim at making existing processes more efficient.
 
 ## Descriptive
 ### City Score
