@@ -28,6 +28,9 @@ repository: uwethuemmel/dataandthecity
 navigation:
   - main
 
+destination: _site
+
+
 # Defaults for layouts to avoid missing layout errors
 defaults:
   - scope:
