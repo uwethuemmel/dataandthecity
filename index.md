@@ -4,7 +4,6 @@ title: "City Data Strategies"
 author_profile: false
 ---
 
-## City Strategies
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px;">
   {% for city in site.cities %}
@@ -20,7 +19,6 @@ author_profile: false
       {% if city.summary %}
         <p>{{ city.summary | truncatewords: 20 }}</p>
       {% endif %}
-      <p><strong>Status:</strong> {{ city.status }}</p>
     </div>
   {% endfor %}
 </div>
