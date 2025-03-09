@@ -2,6 +2,7 @@
 layout: home
 title: "City Data Strategies"
 author_profile: false
+entries_layout: none
 ---
 
 

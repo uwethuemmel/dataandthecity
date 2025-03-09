@@ -1,8 +1,8 @@
 ---
 layout: city
+title: Helsinki, Finland
 city: Helsinki
 country: Finland
-population: 658864
 strategy_date: 2021-06-10
 status: Active
 summary: Helsinki's data strategy emphasizes transparency and citizen involvement.

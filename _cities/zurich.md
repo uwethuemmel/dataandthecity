@@ -1,8 +1,8 @@
 ---
 layout: city
+title: Zurich, Switzerland
 city: Zurich
 country: Switzerland
-population: 421878
 strategy_date: 2023-05-10
 status: Active
 summary: Zurich's data strategy focuses on improving data governance, transparency, and citizen services.

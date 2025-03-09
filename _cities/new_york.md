@@ -1,8 +1,8 @@
 ---
 layout: city
-city: New York
+title: New York City, USA
+city: New York City
 country: USA
-population: 8419600
 strategy_date: 2022-07-15
 status: Active
 summary: New York's data strategy emphasizes open data and citizen engagement.

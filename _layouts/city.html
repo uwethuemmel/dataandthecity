@@ -1,19 +1,16 @@
 ---
 layout: single
-header: false
-title: false
+header: true
 ---
 
 <article>
   <header>
-    <h1>{{ page.city }} ({{ page.country }})</h1>
     {% if page.thumbnail %}
       <img src="{{ page.thumbnail }}" alt="{{ page.city }} thumbnail" style="width: 100%; max-width: 600px; height: auto; object-fit: cover; border-radius: 8px; margin-bottom: 20px;">
     {% endif %}
   </header>
 
   <div>
-    <p><strong>Population:</strong> {{ page.population | number_with_delimiter }}</p>
     <p><strong>Strategy Date:</strong> {{ page.strategy_date | date: "%B %d, %Y" }}</p>
     <p><strong>Status:</strong> {{ page.status }}</p>
   </div>
@@ -28,7 +25,6 @@ title: false
     <p>{{ page.mission }}</p>
   {% endif %}
 
-  <h2>Overview</h2>
   <div>
     {{ content }}
   </div>
