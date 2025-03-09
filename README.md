@@ -1,6 +1,0 @@
-## [Use Cases](use_cases.md)
-## [Articles](articles.md)
-## [Podcasts](podcasts.md)
-## [Data Analytics Teams](data_analytics_teams.md)
-## [Courses](courses.md)
-## [Academic Institutes](academic_institutes.md)
