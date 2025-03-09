@@ -7,7 +7,8 @@ strategy_date: 2021-06-10
 status: Active
 summary: Helsinki's data strategy emphasizes transparency and citizen involvement.
 mission: To position Helsinki as a global leader in smart city solutions through effective use of data.
-thumbnail: "https://image.geo.de/34513564/t/on/v2/w2048/r1.5/-/helsinki-as-56312148.jpg" 
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/6/67/Helsinki_skyline_banner.jpg"
+attribution: <a href="https://commons.wikimedia.org/wiki/File:Helsinki_skyline_banner.jpg">Helen Ilus</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>
 ---
 
 ## Overview
